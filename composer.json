@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ScoperBug\\": "src/"
+        }
+    },
+    "require": {
+        "pimple/pimple": "^3.0"
+    }
+}
+
